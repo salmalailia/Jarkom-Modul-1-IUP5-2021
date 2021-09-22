@@ -10,6 +10,8 @@ Khairi Wiryawan     (05111942000023)
 
     ``tcp.port == 80``
     
+    ![image](https://user-images.githubusercontent.com/73702347/134342478-9b623040-e4d9-4901-b455-ac4ebe92341d.png)
+
 13. Filter so that wireshark only picks up packets coming from port 21!
 
      ``tcp.port == 21``
