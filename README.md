@@ -14,27 +14,35 @@ Khairi Wiryawan     (05111942000023)
 
 11. Filter so that wireshark only picks up packets coming from port 80!
 
-    ``tcp.port == 80``
+    ``tcp src port 80``
     
-    ![image](https://user-images.githubusercontent.com/73702347/134342478-9b623040-e4d9-4901-b455-ac4ebe92341d.png)
+    ![image](https://user-images.githubusercontent.com/73702347/134542323-7dc6bdd8-cb73-40bd-a41b-36fd0022fb77.png)
+
+    ![image](https://user-images.githubusercontent.com/73702347/134542432-ea7730cb-4724-42f5-b176-5b71dcdfeb0f.png)
 
 12. Filter so that wireshark only picks up packets coming from port 21!
 
-     ``tcp.port == 21``
+     ``tcp src port 21``
      
-     ![image](https://user-images.githubusercontent.com/73702347/134342599-1676b27c-73a4-4f29-a10a-de5e145124ab.png)
+     ![image](https://user-images.githubusercontent.com/73702347/134542766-cc3d1045-3a42-4f3e-92be-e54617dede05.png)
      
+     ![image](https://user-images.githubusercontent.com/73702347/134542869-05f48479-4a0e-40a0-afef-30a701fd436c.png)
+
 13. Filter so that wireshark only picks up packets coming from port 443!
 
-     ``tcp.port == 443``
+     ``tcp src port 443``
 
-    ![image](https://user-images.githubusercontent.com/73702347/134342708-78a83abc-13d4-4cfa-bd3b-ca7e33f267f4.png)
+    ![image](https://user-images.githubusercontent.com/73702347/134542966-6c8f542b-792f-4d03-a623-463e19d288c2.png)
+    
+    ![image](https://user-images.githubusercontent.com/73702347/134543000-3594efd1-4537-4a78-9513-4f5454ffe332.png)
 
 14. Filter so that wireshark only picks up packets going to kemenag.go.id!
 
-     ``tcp.port == kemenag.go.id``
+     ``dst kemenag.go.id``
      
-     ![image](https://user-images.githubusercontent.com/73702347/134342907-c953a02c-2742-4f88-8de6-a99665d17bd8.png)
+     ![image](https://user-images.githubusercontent.com/73702347/134543239-2ed092d6-a4b2-488b-83b6-b1053a566ebe.png)
+     
+     ![image](https://user-images.githubusercontent.com/73702347/134543337-c22bc23c-dd10-4e79-a7a7-df8580b17be8.png)
      
 15. Filter so that wireshark only picks up packets coming from your local ip address!
 
@@ -42,5 +50,8 @@ Khairi Wiryawan     (05111942000023)
 
     ``ip.src == 192.168.1.4``
     
-    ![image](https://user-images.githubusercontent.com/73702347/134342990-77b59523-eefb-4ec7-ab10-d1944bcbba1f.png)
+    ![image](https://user-images.githubusercontent.com/73702347/134543511-f6362835-40ff-45f2-b49e-619e4b8fb485.png)
+    
+    ![image](https://user-images.githubusercontent.com/73702347/134543531-146953c4-6861-4103-a514-46928d3dac03.png)
+
     
