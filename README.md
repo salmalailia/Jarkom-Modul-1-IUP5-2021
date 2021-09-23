@@ -48,7 +48,7 @@ Khairi Wiryawan     (05111942000023)
 
     Open cmd then type ipconfig, after that you will get your ip address. For searching your originated packets, we use src host means initial host.
 
-    ``ip.src == 192.168.1.4``
+    ``src host 192.168.1.4``
     
     ![image](https://user-images.githubusercontent.com/73702347/134543511-f6362835-40ff-45f2-b49e-619e4b8fb485.png)
     
