@@ -27,7 +27,7 @@ Khairi Wiryawan     (05111942000023)
 
     ![image](https://user-images.githubusercontent.com/73651220/134756492-2fdb5872-0cc3-4c5b-8a6b-5726a597bff1.png)
 
-    ![image](https://user-images.githubusercontent.com/73651220/134756510-a7d03e9b-2a6e-47dc-b2b3-b1ca74d3caab.png)
+    ![image](https://user-images.githubusercontent.com/73651220/134756960-8a4abe08-38ec-4f33-a373-e817613bab9c.png)
 
     ![image](https://user-images.githubusercontent.com/73651220/134756517-c13a9c70-662f-4c11-9573-71f9075e60be.png)
 
