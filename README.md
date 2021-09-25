@@ -21,7 +21,7 @@ Khairi Wiryawan     (05111942000023)
 
     ``ftp-data contains "Real.pdf"``
     
-    ![image](https://user-images.githubusercontent.com/73651220/134756458-1160b87f-aa7b-4fae-b7c6-2b4b7888f4bc.png)
+    ![image](https://user-images.githubusercontent.com/73651220/134769365-931c561d-4749-4446-9664-0204271c93e5.png)
     
     ![image](https://user-images.githubusercontent.com/73651220/134756487-50ab3f31-db88-4938-9856-6b61d0b40b03.png)
 
