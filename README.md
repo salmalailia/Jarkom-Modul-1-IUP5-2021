@@ -12,16 +12,22 @@ Khairi Wiryawan     (05111942000023)
 # Module 1
 
 1. What web server is used on "ichimarumaru.tech"!
+
+
 ```http.host == ichimarumaru.tech```
 ![Screenshot (349)](https://user-images.githubusercontent.com/73766131/134770713-74ab74e3-4e0f-467b-b839-0a39571a2150.png)
 
 
 2. Find the packets from the web that use the basic authentication method!
+
+
 ```http.authbasic```
 ![Screenshot (359)](https://user-images.githubusercontent.com/73766131/134770729-abaf6526-3bd2-4893-a4f5-3245925d7a3f.png)
 
 
 3. Follow the instructions at basic.ichimarumaru.tech! Username and password can be obtained from the .pcapng file!
+
+
 ```http.host == basic.ichimarumaru.tech```
 ![Screenshot (357)](https://user-images.githubusercontent.com/73766131/134770752-5a9405ac-4cae-44c1-a66f-31da75d55758.png)
 Credentials: kuncimenujulautan:tQKEJFbgNGC1NCZlWAOjhyCOm6o3xEbPkJhTciZN
@@ -30,11 +36,15 @@ Credentials: kuncimenujulautan:tQKEJFbgNGC1NCZlWAOjhyCOm6o3xEbPkJhTciZN
 
 
 4. Find the mysql packets that contain the select query command!
+
+
 ```mysql.query matches "select"```
 
 ![Screenshot (351)](https://user-images.githubusercontent.com/73766131/134770789-ead0bf92-a4a1-4684-a221-e175668597b7.png)
 
 5. Login to portal.ichimarumaru.tech then follow the instructions! The username and password can be obtained from the insert query in the users table from the .pcap file!
+
+
 
 ```mysql.query matches "insert"```
 
